@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --navy:#1f3a63; --gold:#c89b3c; }
+
+html { -webkit-text-size-adjust: 100%; }
+body {
+  @apply bg-paper text-navy-ink antialiased;
+  font-family: var(--font-sans, "Segoe UI", system-ui, sans-serif);
+}
+h1,h2,h3,.font-brand {
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", Georgia, serif;
+}
+
+.eyebrow { @apply text-[11px] font-semibold uppercase tracking-eyebrow text-gold-deep; }
+.rule-gold { height:3px; width:44px; @apply bg-gold; }
+
+/* recharts polish */
+.recharts-cartesian-grid line { stroke:#e6eaf1; }
+.recharts-text { fill:#5b6b85; font-size:12px; }
+.recharts-default-tooltip { border-radius:8px !important; border:1px solid #e6eaf1 !important; box-shadow:0 10px 30px -12px rgba(16,28,52,.28) !important; font-family:"Segoe UI",system-ui,sans-serif; }
+
+@media (prefers-reduced-motion: reduce) { * { animation:none !important; transition:none !important; } }
+*:focus-visible { outline:2px solid var(--gold); outline-offset:2px; }
+::selection { background:#dfe7f2; }

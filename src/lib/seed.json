@@ -1,0 +1,547 @@
+{
+ "managers": [
+  {
+   "branch": "Accra Main",
+   "region": "Greater Accra",
+   "manager": "Ernest Kwasi Hammond",
+   "email": "ekhammond@donewellinsurance.com",
+   "phone": "546476270"
+  },
+  {
+   "branch": "Tema",
+   "region": "Greater Accra",
+   "manager": "Yvette Selinam Xetsa Ampofo",
+   "email": "ysxampofo@donewellinsurance.com",
+   "phone": "243352915"
+  },
+  {
+   "branch": "Kumasi",
+   "region": "Ashanti",
+   "manager": "Samuel Lartey",
+   "email": "slartey@donewellinsurance.com",
+   "phone": "501603895"
+  },
+  {
+   "branch": "Obuasi",
+   "region": "Ashanti",
+   "manager": "Samuel Lartey",
+   "email": "slartey@donewellinsurance.com",
+   "phone": "501603895"
+  },
+  {
+   "branch": "Takoradi",
+   "region": "Western",
+   "manager": "Anthony Borlu",
+   "email": "aborlu@donewellinsurance.com",
+   "phone": "242738958"
+  },
+  {
+   "branch": "Tarkwa",
+   "region": "Western",
+   "manager": "Anthony Borlu",
+   "email": "aborlu@donewellinsurance.com",
+   "phone": "242738958"
+  },
+  {
+   "branch": "Cape Coast",
+   "region": "Central",
+   "manager": "John Blankson",
+   "email": "jblankson@donewellinsurance.com",
+   "phone": "202077003"
+  },
+  {
+   "branch": "Koforidua",
+   "region": "Eastern",
+   "manager": "Cyril Tetteh",
+   "email": "ctetteh@donewellinsurance.com",
+   "phone": "244134464"
+  },
+  {
+   "branch": "Sunyani",
+   "region": "Bono",
+   "manager": "Patrick Donkoh",
+   "email": "pdonkoh@donewellinsurance.com",
+   "phone": "501603896"
+  },
+  {
+   "branch": "Techiman",
+   "region": "Bono East",
+   "manager": "Patrick Donkoh",
+   "email": "pdonkoh@donewellinsurance.com",
+   "phone": "501603896"
+  },
+  {
+   "branch": "Tamale",
+   "region": "Northern",
+   "manager": "Benjamin Lorwont Ninlabsiba",
+   "email": "blninlabsiba@donewellinsurance.com",
+   "phone": "247833524"
+  },
+  {
+   "branch": "Ho",
+   "region": "Volta",
+   "manager": "Korleki Setor Akpey",
+   "email": "ksakpey@donewellinsurance.com",
+   "phone": "507307811"
+  },
+  {
+   "branch": "Wa",
+   "region": "Upper West",
+   "manager": "Benjamin Lorwont Ninlabsiba",
+   "email": "blninlabsiba@donewellinsurance.com",
+   "phone": "247833524"
+  }
+ ],
+ "branches": [
+  "Accra Main",
+  "Cape Coast",
+  "Ho",
+  "Koforidua",
+  "Kumasi",
+  "Obuasi",
+  "Sunyani",
+  "Takoradi",
+  "Tamale",
+  "Tarkwa",
+  "Techiman",
+  "Tema",
+  "Wa"
+ ],
+ "engagementTypes": [
+  "Courtesy Visit",
+  "Formal Meeting",
+  "Presentation",
+  "Quotation Discussion",
+  "Renewal Visit",
+  "Claims Visit",
+  "Training/Workshop",
+  "Synod Event",
+  "Diocesan Event",
+  "Society Visit",
+  "Cold Call",
+  "Phone Follow-up",
+  "Email Follow-up",
+  "Cross-sell Visit",
+  "Service Recovery"
+ ],
+ "outcomes": [
+  "Prospect Identified",
+  "Information Gathered",
+  "Quotation Requested",
+  "Quotation Sent",
+  "Proposal Under Review",
+  "Won — Policy Issued",
+  "Lost — Price",
+  "Lost — Competitor",
+  "Lost — No Decision",
+  "Follow-up Required",
+  "Closed — No Interest"
+ ],
+ "statuses": [
+  "Open",
+  "In Progress",
+  "Won",
+  "Lost",
+  "Closed",
+  "On Hold"
+ ],
+ "institutionTypes": [
+  "Diocese HQ",
+  "Circuit",
+  "Society/Church",
+  "Health Facility",
+  "School/Educational",
+  "Other Methodist Institution"
+ ],
+ "priorities": [
+  "High",
+  "Medium",
+  "Low"
+ ],
+ "institutions": [
+  {
+   "name": "Institution Name",
+   "type": "Type",
+   "region": "Region",
+   "branch": "Assigned Branch",
+   "notes": "Circuits / Notes",
+   "membership": "Membership"
+  },
+  {
+   "name": "Methodist Church Ghana — Cape Coast Diocese",
+   "type": "Diocese",
+   "region": "Central",
+   "branch": "Cape Coast",
+   "notes": "34 circuits, 256 societies",
+   "membership": 38187
+  },
+  {
+   "name": "Methodist Church Ghana — Accra Diocese",
+   "type": "Diocese",
+   "region": "Greater Accra",
+   "branch": "Accra Main",
+   "notes": "24 circuits, 106 societies",
+   "membership": 35229
+  },
+  {
+   "name": "Methodist Church Ghana — Kumasi Diocese",
+   "type": "Diocese",
+   "region": "Ashanti",
+   "branch": "Kumasi",
+   "notes": "40 circuits, 550 societies",
+   "membership": 85636
+  },
+  {
+   "name": "Methodist Church Ghana — Sekondi Diocese",
+   "type": "Diocese",
+   "region": "Western",
+   "branch": "Takoradi",
+   "notes": "18 circuits, 347 societies",
+   "membership": 59091
+  },
+  {
+   "name": "Methodist Church Ghana — Winneba Diocese",
+   "type": "Diocese",
+   "region": "Central",
+   "branch": "Cape Coast",
+   "notes": "21 circuits, 355 societies",
+   "membership": 47037
+  },
+  {
+   "name": "Methodist Church Ghana — Koforidua Diocese",
+   "type": "Diocese",
+   "region": "Eastern",
+   "branch": "Koforidua",
+   "notes": "20 circuits, 168 societies",
+   "membership": 19473
+  },
+  {
+   "name": "Methodist Church Ghana — Sunyani Diocese",
+   "type": "Diocese",
+   "region": "Bono",
+   "branch": "Sunyani",
+   "notes": "16 circuits, 260 societies",
+   "membership": 31134
+  },
+  {
+   "name": "Methodist Church Ghana — Tarkwa Diocese",
+   "type": "Diocese",
+   "region": "Western",
+   "branch": "Tarkwa",
+   "notes": "16 circuits, 363 societies",
+   "membership": 39195
+  },
+  {
+   "name": "Methodist Church Ghana — Tamale Diocese",
+   "type": "Diocese",
+   "region": "Northern",
+   "branch": "Tamale",
+   "notes": "10 circuits, 51 societies",
+   "membership": 3528
+  },
+  {
+   "name": "Methodist Church Ghana — Oda Diocese",
+   "type": "Diocese",
+   "region": "Eastern",
+   "branch": "Koforidua",
+   "notes": "17 circuits, 194 societies",
+   "membership": 18474
+  },
+  {
+   "name": "Methodist Church Ghana — Effiduase Diocese",
+   "type": "Diocese",
+   "region": "Ashanti",
+   "branch": "Kumasi",
+   "notes": "18 circuits, 267 societies",
+   "membership": 30288
+  },
+  {
+   "name": "Methodist Church Ghana — Obuasi Diocese",
+   "type": "Diocese",
+   "region": "Ashanti",
+   "branch": "Obuasi",
+   "notes": "21 circuits, 256 societies",
+   "membership": 23803
+  },
+  {
+   "name": "Methodist Church Ghana — Tema Diocese",
+   "type": "Diocese",
+   "region": "Greater Accra",
+   "branch": "Tema",
+   "notes": "13 circuits, 90 societies",
+   "membership": 28555
+  },
+  {
+   "name": "Methodist Church Ghana — Wenchi Diocese",
+   "type": "Diocese",
+   "region": "Bono East",
+   "branch": "Techiman",
+   "notes": "14 circuits, 159 societies",
+   "membership": 17988
+  },
+  {
+   "name": "Methodist Church Ghana — Somanya Diocese",
+   "type": "Diocese",
+   "region": "Eastern",
+   "branch": "Tema",
+   "notes": "9 circuits, 67 societies",
+   "membership": 6259
+  },
+  {
+   "name": "Methodist Church Ghana — Sefwi Bekwai Diocese",
+   "type": "Diocese",
+   "region": "Western North",
+   "branch": "Takoradi",
+   "notes": "13 circuits, 257 societies",
+   "membership": 20218
+  },
+  {
+   "name": "Methodist Church Ghana — Foso Diocese",
+   "type": "Diocese",
+   "region": "Central",
+   "branch": "Cape Coast",
+   "notes": "9 circuits, 168 societies",
+   "membership": 22173
+  },
+  {
+   "name": "Methodist Church Ghana — Goaso Diocese",
+   "type": "Diocese",
+   "region": "Ahafo",
+   "branch": "Sunyani",
+   "notes": "8 circuits, 110 societies",
+   "membership": 11304
+  },
+  {
+   "name": "Methodist Church Ghana — Nkawkaw Diocese",
+   "type": "Diocese",
+   "region": "Eastern",
+   "branch": "Koforidua",
+   "notes": "9 circuits, 88 societies",
+   "membership": 6016
+  },
+  {
+   "name": "Methodist Church Ghana — Northern Accra Diocese",
+   "type": "Diocese",
+   "region": "Greater Accra",
+   "branch": "Accra Main",
+   "notes": "18 circuits, 189 societies",
+   "membership": 31956
+  },
+  {
+   "name": "Methodist Church Ghana — Ho Diocese",
+   "type": "Diocese",
+   "region": "Volta",
+   "branch": "Ho",
+   "notes": "6 circuits, 66 societies",
+   "membership": 4826
+  },
+  {
+   "name": "Methodist Health Training Institute Afosu Campus",
+   "type": "Health Facility",
+   "region": "Eastern",
+   "branch": "Koforidua",
+   "notes": "New Abirem  ·  0244280748",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Lawra",
+   "type": "Health Facility",
+   "region": "Upper East",
+   "branch": "Tamale",
+   "notes": "Northern Ghana  ·  0203190696",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Yipala",
+   "type": "Health Facility",
+   "region": "Northern Ghana",
+   "branch": "Tamale",
+   "notes": "Zangey Yipala  ·  0248783205",
+   "membership": null
+  },
+  {
+   "name": "Methodist Hospital Wenchi",
+   "type": "Health Facility",
+   "region": "Bono East",
+   "branch": "Techiman",
+   "notes": "Wenchi  ·  0208181340",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Kwakuyanya",
+   "type": "Health Facility",
+   "region": "Bono Region",
+   "branch": "Sunyani",
+   "notes": "Kwakuyanya  ·  0241645002",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Yawase",
+   "type": "Health Facility",
+   "region": "Brong Ahafo",
+   "branch": "Sunyani",
+   "notes": "Yawase  ·  0241645003",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Asuakwa",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Asuakwa  ·  0241645004",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Adagyaman",
+   "type": "Health Facility",
+   "region": "Ahafo Region",
+   "branch": "Sunyani",
+   "notes": "Adagyaman  ·  0241645005",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Apagya",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Apagya  ·  0247844820",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Adum",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Adum  ·  0205089889",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Tafo",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Tafo  ·  0243055193",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Bebu",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Bebu  ·  0245497204",
+   "membership": null
+  },
+  {
+   "name": "Methodist Hospital Aburaso",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Kumasi  ·  0288710508",
+   "membership": null
+  },
+  {
+   "name": "Methodist Hospital Ankase",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Ankase Kumasi  ·  0202198179",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Senchi",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Senchi  ·  0215888749",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Nyameani",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Nyameani  ·  0242187985",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Brodekwano",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Brodekwano  ·  0244155578",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Lake",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Amakom  ·  024078844",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Hweehwee",
+   "type": "Health Facility",
+   "region": "Ashanti Region",
+   "branch": "Kumasi",
+   "notes": "Hweehwee  ·  020893157",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Osuben",
+   "type": "Health Facility",
+   "region": "Eastern Region",
+   "branch": "Koforidua",
+   "notes": "Osuben  ·  0208145487",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Kwawu",
+   "type": "Health Facility",
+   "region": "Eastern Region",
+   "branch": "Koforidua",
+   "notes": "Kwawu  ·  0248799513",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Adjoafua",
+   "type": "Health Facility",
+   "region": "Western Region",
+   "branch": "Takoradi",
+   "notes": "Adjoafua  ·  0208418482",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Takoradi",
+   "type": "Health Facility",
+   "region": "Western Region",
+   "branch": "Takoradi",
+   "notes": "Takoradi Municipal  ·  0542349997",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Benyin/Nzulezu",
+   "type": "Health Facility",
+   "region": "Western Region",
+   "branch": "Takoradi",
+   "notes": "Nzulezu  ·  0248293414",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Gwira Esiem",
+   "type": "Health Facility",
+   "region": "Western Region",
+   "branch": "Takoradi",
+   "notes": "Esiem  ·  0509800883",
+   "membership": null
+  },
+  {
+   "name": "Methodist Medical Centre Kyekyewere",
+   "type": "Health Facility",
+   "region": "Bono Region",
+   "branch": "Sunyani",
+   "notes": "Tain  ·  0208344780",
+   "membership": null
+  }
+ ]
+}

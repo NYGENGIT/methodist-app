@@ -1,0 +1,566 @@
+{
+ "generatedAt": "2026-06-23",
+ "period": {
+  "from": "2026-01-02",
+  "to": "2026-05-31"
+ },
+ "kpis": {
+  "totalPremium": 2618534.38,
+  "newBusinessPremium": 766429.35,
+  "renewalPremium": 1727586.47,
+  "newVsRenewalPct": 29.27,
+  "renewalSharePct": 65.98,
+  "policies": 385,
+  "customers": 217,
+  "sumInsured": 242461592.27,
+  "avgPremium": 6801.39,
+  "newPolicies": 89,
+  "renewalPolicies": 284
+ },
+ "monthly": [
+  {
+   "month": "2026-01",
+   "newBusiness": 36170.81,
+   "renewal": 337668.62,
+   "other": 6282.0,
+   "total": 380121.43,
+   "policies": 90,
+   "customers": 67
+  },
+  {
+   "month": "2026-02",
+   "newBusiness": 194952.47,
+   "renewal": 330391.09,
+   "other": 0.0,
+   "total": 525343.56,
+   "policies": 93,
+   "customers": 62
+  },
+  {
+   "month": "2026-03",
+   "newBusiness": 127360.33,
+   "renewal": 317340.04,
+   "other": 6521.46,
+   "total": 451221.83,
+   "policies": 79,
+   "customers": 56
+  },
+  {
+   "month": "2026-04",
+   "newBusiness": 240153.77,
+   "renewal": 176054.95,
+   "other": 99597.48,
+   "total": 515806.2,
+   "policies": 67,
+   "customers": 42
+  },
+  {
+   "month": "2026-05",
+   "newBusiness": 167791.97,
+   "renewal": 566131.76,
+   "other": 12117.62,
+   "total": 746041.35,
+   "policies": 56,
+   "customers": 32
+  }
+ ],
+ "byBranch": [
+  {
+   "label": "Accra (Head Office)",
+   "premium": 943617.46,
+   "count": 94,
+   "customers": 53
+  },
+  {
+   "label": "Dansoman",
+   "premium": 506515.45,
+   "count": 42,
+   "customers": 29
+  },
+  {
+   "label": "Kumasi",
+   "premium": 437504.86,
+   "count": 93,
+   "customers": 50
+  },
+  {
+   "label": "Takoradi",
+   "premium": 279886.37,
+   "count": 35,
+   "customers": 25
+  },
+  {
+   "label": "Sunyani",
+   "premium": 125176.43,
+   "count": 51,
+   "customers": 37
+  },
+  {
+   "label": "Madina",
+   "premium": 121329.52,
+   "count": 10,
+   "customers": 8
+  },
+  {
+   "label": "Spintex",
+   "premium": 75688.89,
+   "count": 7,
+   "customers": 5
+  },
+  {
+   "label": "Cape Coast",
+   "premium": 45805.0,
+   "count": 22,
+   "customers": 17
+  },
+  {
+   "label": "Koforidua",
+   "premium": 43781.6,
+   "count": 15,
+   "customers": 10
+  },
+  {
+   "label": "Tema",
+   "premium": 16006.53,
+   "count": 7,
+   "customers": 6
+  },
+  {
+   "label": "Tafo",
+   "premium": 13304.0,
+   "count": 1,
+   "customers": 1
+  },
+  {
+   "label": "Tamale",
+   "premium": 7913.27,
+   "count": 4,
+   "customers": 3
+  },
+  {
+   "label": "Volta",
+   "premium": 1475.0,
+   "count": 3,
+   "customers": 3
+  },
+  {
+   "label": "Bohye DVLA",
+   "premium": 530.0,
+   "count": 1,
+   "customers": 1
+  }
+ ],
+ "byBusiness": [
+  {
+   "label": "Motor Insurance",
+   "premium": 2310190.26,
+   "count": 328,
+   "customers": 182
+  },
+  {
+   "label": "Fire Insurance",
+   "premium": 247683.44,
+   "count": 54,
+   "customers": 44
+  },
+  {
+   "label": "Engineering Insurance",
+   "premium": 60560.68,
+   "count": 2,
+   "customers": 2
+  },
+  {
+   "label": "Bond Insurance",
+   "premium": 100.0,
+   "count": 1,
+   "customers": 1
+  }
+ ],
+ "byCoverType": [
+  {
+   "label": "Comprehensive",
+   "premium": 2192825.37,
+   "count": 171,
+   "customers": 94
+  },
+  {
+   "label": "Assets All Risks",
+   "premium": 144786.64,
+   "count": 26,
+   "customers": 22
+  },
+  {
+   "label": "Third party",
+   "premium": 106610.89,
+   "count": 155,
+   "customers": 102
+  },
+  {
+   "label": "Fire & Allied Perils",
+   "premium": 54374.82,
+   "count": 12,
+   "customers": 11
+  },
+  {
+   "label": "Contractors' Plant & Machiner",
+   "premium": 48829.08,
+   "count": 1,
+   "customers": 1
+  },
+  {
+   "label": "Combined Fire and Burglary",
+   "premium": 32402.23,
+   "count": 8,
+   "customers": 7
+  },
+  {
+   "label": "Comprehensive Homeowners",
+   "premium": 15009.75,
+   "count": 7,
+   "customers": 5
+  },
+  {
+   "label": "Electronic Equipment",
+   "premium": 11731.59,
+   "count": 1,
+   "customers": 1
+  },
+  {
+   "label": "Comprehensive House Holders",
+   "premium": 1110.0,
+   "count": 1,
+   "customers": 1
+  },
+  {
+   "label": "Bid Bond",
+   "premium": 100.0,
+   "count": 1,
+   "customers": 1
+  }
+ ],
+ "byTransactionType": [
+  {
+   "label": "Renewal Premium",
+   "premium": 1727586.47,
+   "count": 284,
+   "customers": 176
+  },
+  {
+   "label": "New Business",
+   "premium": 766429.35,
+   "count": 89,
+   "customers": 49
+  },
+  {
+   "label": "Endorsement Premium",
+   "premium": 124518.56,
+   "count": 12,
+   "customers": 5
+  }
+ ],
+ "topCustomers": [
+  {
+   "customer": "The Methodist Church Ghana",
+   "premium": 509038.13,
+   "policies": 52,
+   "sumInsured": 12346523.71,
+   "newBusiness": 207008.2,
+   "renewal": 202353.45,
+   "branch": "Kumasi"
+  },
+  {
+   "customer": "Joshob Construction Company",
+   "premium": 452040.41,
+   "policies": 14,
+   "sumInsured": 76842123.46,
+   "newBusiness": 66336.96,
+   "renewal": 367343.1,
+   "branch": "Accra (Head Office)"
+  },
+  {
+   "customer": "Methodist University Ghana",
+   "premium": 192206.32,
+   "policies": 11,
+   "sumInsured": 5709360.0,
+   "newBusiness": 0.0,
+   "renewal": 192206.32,
+   "branch": "Accra (Head Office)"
+  },
+  {
+   "customer": "Microfinance And Small Loans",
+   "premium": 153634.66,
+   "policies": 5,
+   "sumInsured": 5784459.24,
+   "newBusiness": 153634.66,
+   "renewal": 0.0,
+   "branch": "Dansoman"
+  },
+  {
+   "customer": "Methodist Health Training Institute",
+   "premium": 85389.21,
+   "policies": 3,
+   "sumInsured": 12044760.21,
+   "newBusiness": 85289.47,
+   "renewal": 0.0,
+   "branch": "Madina"
+  },
+  {
+   "customer": "The Methodist Church Ghana -",
+   "premium": 78631.08,
+   "policies": 10,
+   "sumInsured": 2787080.0,
+   "newBusiness": 50822.42,
+   "renewal": 27808.66,
+   "branch": "Kumasi"
+  },
+  {
+   "customer": "Ghana Enterprises Agency",
+   "premium": 51889.47,
+   "policies": 1,
+   "sumInsured": 2750000.0,
+   "newBusiness": 51889.47,
+   "renewal": 0.0,
+   "branch": "Dansoman"
+  },
+  {
+   "customer": "The Methodist Church Gh-Kumasi",
+   "premium": 43415.0,
+   "policies": 3,
+   "sumInsured": 950000.0,
+   "newBusiness": 331.0,
+   "renewal": 43084.0,
+   "branch": "Kumasi"
+  },
+  {
+   "customer": "The Methodist Church Sekondi",
+   "premium": 39333.0,
+   "policies": 2,
+   "sumInsured": 752500.0,
+   "newBusiness": 2056.0,
+   "renewal": 37277.0,
+   "branch": "Takoradi"
+  },
+  {
+   "customer": "The Methodist Ch. Gh. Wesley",
+   "premium": 38301.0,
+   "policies": 2,
+   "sumInsured": 800000.0,
+   "newBusiness": 0.0,
+   "renewal": 38301.0,
+   "branch": "Kumasi"
+  },
+  {
+   "customer": "The Methodist Church Gh. Santasi",
+   "premium": 37744.0,
+   "policies": 2,
+   "sumInsured": 935000.0,
+   "newBusiness": 15857.0,
+   "renewal": 21887.0,
+   "branch": "Kumasi"
+  },
+  {
+   "customer": "The Methodist Church, Ghana",
+   "premium": 37060.0,
+   "policies": 3,
+   "sumInsured": 820000.0,
+   "newBusiness": 0.0,
+   "renewal": 37060.0,
+   "branch": "Sunyani"
+  },
+  {
+   "customer": "Very Rev Ishmael Otchere",
+   "premium": 33950.64,
+   "policies": 2,
+   "sumInsured": 5101605.0,
+   "newBusiness": 33950.64,
+   "renewal": 0.0,
+   "branch": "Kumasi"
+  },
+  {
+   "customer": "The Methodist Church Ghana,",
+   "premium": 31840.5,
+   "policies": 8,
+   "sumInsured": 880000.0,
+   "newBusiness": 1551.0,
+   "renewal": 30289.5,
+   "branch": "Sunyani"
+  },
+  {
+   "customer": "Methodist Church Gh Dansoman Circuit",
+   "premium": 30626.0,
+   "policies": 1,
+   "sumInsured": 812000.0,
+   "newBusiness": 0.0,
+   "renewal": 30626.0,
+   "branch": "Dansoman"
+  },
+  {
+   "customer": "Methodist Church-Effiduase Diocese",
+   "premium": 30587.0,
+   "policies": 2,
+   "sumInsured": 1000000.0,
+   "newBusiness": 0.0,
+   "renewal": 30587.0,
+   "branch": "Kumasi"
+  },
+  {
+   "customer": "Bethel Methodist Church- Kokomleml",
+   "premium": 30441.58,
+   "policies": 3,
+   "sumInsured": 3049580.0,
+   "newBusiness": 0.0,
+   "renewal": 30441.58,
+   "branch": "Accra (Head Office)"
+  },
+  {
+   "customer": "Accra Wesley Methodist Cathedral",
+   "premium": 22383.97,
+   "policies": 2,
+   "sumInsured": 3530000.0,
+   "newBusiness": 0.0,
+   "renewal": 22383.97,
+   "branch": "Accra (Head Office)"
+  },
+  {
+   "customer": "Gaddiel Acquaah Methodist Church",
+   "premium": 20983.09,
+   "policies": 1,
+   "sumInsured": 477407.0,
+   "newBusiness": 0.0,
+   "renewal": 20983.09,
+   "branch": "Takoradi"
+  },
+  {
+   "customer": "Methodist Church Of Ghana, Takoradi",
+   "premium": 20054.0,
+   "policies": 1,
+   "sumInsured": 500000.0,
+   "newBusiness": 0.0,
+   "renewal": 20054.0,
+   "branch": "Takoradi"
+  },
+  {
+   "customer": "Methodist Rafiki Satellite Village",
+   "premium": 18552.8,
+   "policies": 3,
+   "sumInsured": 9015000.0,
+   "newBusiness": 0.0,
+   "renewal": 18552.8,
+   "branch": "Accra (Head Office)"
+  },
+  {
+   "customer": "Johnson Asamoah-Gyadu",
+   "premium": 17850.0,
+   "policies": 1,
+   "sumInsured": 800000.0,
+   "newBusiness": 0.0,
+   "renewal": 17850.0,
+   "branch": "Accra (Head Office)"
+  },
+  {
+   "customer": "St. Peter Methodist (M7)",
+   "premium": 17535.87,
+   "policies": 1,
+   "sumInsured": 11064650.0,
+   "newBusiness": 0.0,
+   "renewal": 17535.87,
+   "branch": "Madina"
+  },
+  {
+   "customer": "Wesley Methodist Church Akosombo",
+   "premium": 17292.0,
+   "policies": 1,
+   "sumInsured": 310000.0,
+   "newBusiness": 0.0,
+   "renewal": 17292.0,
+   "branch": "Koforidua"
+  },
+  {
+   "customer": "Edward Niikwei Okine",
+   "premium": 17237.0,
+   "policies": 1,
+   "sumInsured": 295000.0,
+   "newBusiness": 17237.0,
+   "renewal": 0.0,
+   "branch": "Dansoman"
+  }
+ ],
+ "topAgents": [
+  {
+   "agent": "GWENTON  BRUCE-KONUAH",
+   "premium": 606869.07,
+   "policies": 21
+  },
+  {
+   "agent": "DIRECT BUSINESS",
+   "premium": 372545.25,
+   "policies": 70
+  },
+  {
+   "agent": "EBENEZER ADJEI",
+   "premium": 244374.8,
+   "policies": 43
+  },
+  {
+   "agent": "ISHMAEL  MUSAH",
+   "premium": 179423.09,
+   "policies": 22
+  },
+  {
+   "agent": "ISAAC KOJO YAWSON",
+   "premium": 141308.0,
+   "policies": 5
+  },
+  {
+   "agent": "BENJAMIN BOADU",
+   "premium": 86097.1,
+   "policies": 4
+  },
+  {
+   "agent": "Margaret Agyeiwaa",
+   "premium": 85389.21,
+   "policies": 3
+  },
+  {
+   "agent": "Reuben Amissah",
+   "premium": 78053.28,
+   "policies": 19
+  },
+  {
+   "agent": "Mr.KING GEORGE DUAH",
+   "premium": 71725.42,
+   "policies": 6
+  },
+  {
+   "agent": "OLEA M & G INS. BROKER LIMITED",
+   "premium": 69326.85,
+   "policies": 5
+  },
+  {
+   "agent": "Mr.URIAH  ARHIN-ANDOH",
+   "premium": 66463.06,
+   "policies": 8
+  },
+  {
+   "agent": "FLORENCE ABBAN MENSAH",
+   "premium": 60525.09,
+   "policies": 11
+  },
+  {
+   "agent": "ALFRED AMPONSAH BOATENG",
+   "premium": 53330.43,
+   "policies": 9
+  },
+  {
+   "agent": "SAFETY INSURANCE BROKERS",
+   "premium": 51889.47,
+   "policies": 1
+  },
+  {
+   "agent": "EDWARD BOAKYE-YIADOM",
+   "premium": 41122.0,
+   "policies": 11
+  }
+ ],
+ "customerCount": 217
+}
